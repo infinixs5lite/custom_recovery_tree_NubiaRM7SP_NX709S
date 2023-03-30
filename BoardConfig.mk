@@ -165,3 +165,7 @@ TW_DEVICE_VERSION := GT2Pro
 # Debugging Configs
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
+
+#Fix backup 
+TW_BACKUP_EXCLUSIONS := /data/fonts/files
+TW_USE_FSCRYPT_POLICY := 2
