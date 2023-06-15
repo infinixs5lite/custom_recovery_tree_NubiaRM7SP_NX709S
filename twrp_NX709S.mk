@@ -3,13 +3,13 @@
 # SPDX-License-Identifier: Apache-2.0
 
 # Product Information
-PRODUCT_DEVICE := ferrari
+PRODUCT_DEVICE := NX709S
 PRODUCT_RELEASE_NAME := $(PRODUCT_DEVICE)
 PRODUCT_NAME := twrp_$(PRODUCT_DEVICE)
-PRODUCT_BRAND := realme
-PRODUCT_MODEL := Realme GT2 Pro
+PRODUCT_BRAND := nubia
+PRODUCT_MODEL := Red Magic 7s Pro
 PRODUCT_PLATFORM := taro
-PRODUCT_MANUFACTURER := Realme
+PRODUCT_MANUFACTURER := Nubia
 
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
