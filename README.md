@@ -12,7 +12,7 @@
 ### Release Notes
 * TWRP now boots, decryption is working fine but aren't tested in GSI.
 * Necessary blobs used here are from this OTA Firmware Dump: [RMX3301_11.C.13_1130_202301091837](https://gitlab.com/firmware-dump/android_dump_realme_RMX3301).
-* It was tested in a device running RUI 4.0 (RMX3301_11.C.13) firmware, but it should work in RUI3.0 too.
+* It was tested in a device running RMOS 6.0 (NX709S) firmware, but it should work in RMOS 5.5 too.
 * Do not flash OTA firmware yet, it is not well-tested, could brick your device.
 * Red Magic 7s Pro is Virtual A/B with dedicated Recovery Partition, no need to `boot` it like other A/Bs, just `flash` it.
 
