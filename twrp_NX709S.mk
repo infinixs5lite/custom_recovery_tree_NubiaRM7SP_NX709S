@@ -19,7 +19,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit from macedonia device
-$(call inherit-product, device/realme/ferrari/device.mk)
+$(call inherit-product, device/nubia/NX709S/device.mk)
 
 # Enable project quotas and casefolding for emulated storage without sdcardfs
 $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
