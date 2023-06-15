@@ -1,5 +1,5 @@
 ## Custom Recovery | Device Tree
-![Red Magic 7s Pro]
+[Red Magic 7s Pro]
 | Device                  | Red Magic 7s Pro                                          |
 | ----------------------- | ---------------------------------------------------------|
 | SoC                     | Qualcomm SM8450 Snapdragon 8+ Gen 1 (4 nm)                      |      
