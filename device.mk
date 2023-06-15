@@ -24,7 +24,7 @@ TARGET_ENFORCE_AB_OTA_PARTITION_LIST := true
 
 # Stock OEM OTA Cert
 PRODUCT_EXTRA_RECOVERY_KEYS += \
-    $(LOCAL_PATH)/security/local_OTA
+    $(LOCAL_PATH)/security/releasekey
 
 # Update Engine
 PRODUCT_PACKAGES += \
