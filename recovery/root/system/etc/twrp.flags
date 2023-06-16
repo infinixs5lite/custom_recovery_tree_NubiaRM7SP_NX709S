@@ -6,7 +6,6 @@
 /vendor_boot        emmc      /dev/block/bootdevice/by-name/vendor_boot      flags=display="Vendor Boot";slotselect;backup=1;flashimg=1
 /dtbo               emmc      /dev/block/bootdevice/by-name/dtbo             flags=display="DTBO";slotselect;backup=1;flashimg=1
 /modem              emmc      /dev/block/bootdevice/by-name/modem            flags=display="Modem";slotselect;backup=1;flashimg=1
-/cache              ext4      /dev/block/by-name/oplusreserve2               flags=display="Cache"
 
 # Verified Boot Partitions
 /vbmeta                	emmc    /dev/block/bootdevice/by-name/vbmeta                               flags=display="VBMeta";slotselect;backup=1;flashimg=1
