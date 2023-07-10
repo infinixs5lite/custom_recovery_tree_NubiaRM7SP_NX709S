@@ -160,7 +160,7 @@ TW_LOAD_VENDOR_MODULES := true
 TW_EXTRA_LANGUAGES := true
 
 # Maintainer/Version
-TW_DEVICE_VERSION := NX709S
+TW_DEVICE_VERSION := Kelvin
 
 # Debugging Configs
 TWRP_INCLUDE_LOGCAT := true
